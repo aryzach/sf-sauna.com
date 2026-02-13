@@ -2,7 +2,7 @@ import saunaLogo from "@/assets/sf-sauna-logo.png";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-background text-foreground font-display">
+    <div className="min-h-screen bg-background text-foreground font-mono">
       {/* Top Nav Bar */}
       <nav className="border-b-2 border-foreground px-6 py-3 flex items-center gap-6">
         <a
