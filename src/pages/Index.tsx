@@ -2,7 +2,7 @@ import saunaLogo from "@/assets/sf-sauna-logo.png";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-background text-foreground font-mono">
+    <div className="min-h-screen bg-background text-foreground font-display">
       {/* Top Nav Bar */}
       <nav className="border-b-2 border-foreground px-6 py-3 flex items-center gap-6">
         <a
@@ -23,10 +23,10 @@ const Index = () => {
         <section>
           <h2 className="text-2xl font-bold tracking-wider uppercase mb-4">The Problem</h2>
           <p className="text-sm leading-relaxed text-muted-foreground">
-            US homes only offer 120V outlets, which cap sauna stoves at low power, slow heat-up, and poor performance (basically unusable).
+            US homes only offer 120V outlets, which cap sauna stoves at low power, slow heat-up, and poor performance (basically unusable). European homes have ubiquitous 230V, enabling their sauna culture.
           </p>
           <p className="mt-4 text-sm leading-relaxed text-muted-foreground">
-            Any good sauna requires 240V, so at-home sauna is effectively gated behind costly and logistically-complex electrical upgrades. This makes sauna out of reach for most people in the US.
+            Any good sauna requires access to high voltage power. At-home sauna in the US is limited by costly and logistically-complex electrical upgrades, making sauna out-of-reach for most people.
           </p>
         </section>
 
@@ -49,7 +49,7 @@ const Index = () => {
             >
               sfsaunarental.com
             </a>
-            , which generates $5k MRR and has served 36 customers.
+            , which generates $5k MRR and has served 36 customers with our fleet of over 20 2-person portable saunas.
           </p>
         </section>
       </main>
