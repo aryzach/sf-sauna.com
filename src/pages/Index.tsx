@@ -1,16 +1,20 @@
 import saunaLogo from "@/assets/sf-sauna-logo.png";
+import { Link } from "react-router-dom";
 
 const Index = () => {
   return (
     <div className="min-h-screen bg-background text-foreground font-mono">
       {/* Top Nav Bar */}
-      <nav className="border-b-2 border-foreground px-6 py-3 flex items-center gap-6">
+      <nav className="border-b-2 border-foreground px-6 py-3 flex items-center justify-between">
         <a
           href="mailto:zach@sf-sauna.com"
           className="text-sm hover:text-accent transition-colors"
         >
           zach@sf-sauna.com
         </a>
+        <Link to="/apply" className="text-sm font-bold hover:text-accent transition-colors">
+          Apply
+        </Link>
       </nav>
 
       {/* Hero */}
