@@ -27,10 +27,10 @@ const Index = () => {
         <section>
           <h2 className="text-2xl font-bold tracking-wider uppercase mb-4">The Problem</h2>
           <p className="text-sm leading-relaxed text-muted-foreground">
-            US homes only offer 120V outlets, which cap sauna stoves at low power, slow heat-up, and poor performance (basically unusable). European homes have ubiquitous 230V, enabling their sauna culture.
+            US homes only offer 120V outlets, which cap sauna stoves at low power, slow heat-up, and poor performance (basically unusable). The standard European outlet is higher voltage (230V), enabling their sauna culture.
           </p>
           <p className="mt-4 text-sm leading-relaxed text-muted-foreground">
-            Any good sauna requires access to high voltage power. At-home sauna in the US is limited by costly and logistically-complex electrical upgrades, making sauna out-of-reach for most people.
+            Any good sauna requires access to high voltage power. At-home sauna in the US is limited by costly and logistically-complex electrical upgrades (installing a 240V circuit), making sauna out-of-reach for most people.
           </p>
         </section>
 
