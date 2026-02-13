@@ -14,7 +14,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        mono: ['Space Mono', 'monospace'],
+        display: ['Lilita One', 'sans-serif'],
       },
       colors: {
         border: "hsl(var(--border))",
