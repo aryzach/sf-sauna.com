@@ -53,7 +53,7 @@ const Index = () => {
             >
               sfsaunarental.com
             </a>
-            , which generates $5k MRR and has served 36 customers with our fleet of over 20 2-person portable saunas.
+            , generating $5k MRR and serving 36 customers with our fleet of over 20 2-person portable saunas.
           </p>
         </section>
       </main>
