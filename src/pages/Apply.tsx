@@ -23,7 +23,7 @@ const Apply = () => {
           We're looking for someone who wants to help prototype a battery-augmented sauna stove.
         </p>
         <p className="text-sm leading-relaxed text-muted-foreground">
-          Paid contract role, $60 – 200/hr, 10–20 hr initial scope
+          Paid contract role, $80 – 150/hr, 10–20 hr initial scope
         </p>
         <div className="text-sm leading-relaxed text-muted-foreground space-y-4">
           <p>
