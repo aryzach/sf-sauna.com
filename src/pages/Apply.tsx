@@ -33,7 +33,7 @@ const Apply = () => {
           <ul className="list-disc list-inside space-y-2 pl-2">
             <li>A short description of the EE project you're most proud of building from scratch</li>
             <li>A link (GitHub, photos, writeup, etc.) if available</li>
-            <li>A sentence or two on why this project interests you</li>
+            
           </ul>
         </div>
       </main>
