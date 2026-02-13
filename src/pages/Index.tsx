@@ -37,7 +37,7 @@ const Index = () => {
         <section>
           <h2 className="text-2xl font-bold tracking-wider uppercase mb-4">The Solution</h2>
           <p className="text-sm leading-relaxed text-muted-foreground">
-            We're building a battery-augmented sauna that can go in any home, apartment, or backyard.
+            We're building a battery-augmented sauna that can go in any home, apartment, or backyard, using a 120V outlet, and heats up in under 30 minutes.
           </p>
         </section>
 
